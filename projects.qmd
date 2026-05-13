@@ -1,0 +1,47 @@
+---
+title: "Projects"
+---
+
+## Academic Projects
+
+### 📊 Data Visualisation Dashboard
+*AAI1001 — Data Engineering and Visualisation*
+
+For this project, I explored a dataset and created an interactive dashboard to visualise key trends. The project involved:
+
+- Data cleaning and preprocessing using **Python (Pandas)**
+- Exploratory data analysis (EDA)
+- Visualisation using **Matplotlib** and **Seaborn**
+
+**Key finding:** The data revealed a strong correlation between \[variable A\] and \[variable B\], which suggested \[brief insight\].
+
+---
+
+### 🌐 Personal Website
+*AAI1001 — Week 02 Lab*
+
+This website itself is a project! It was built using:
+
+- **Quarto** for authoring and rendering
+- **GitHub Pages** for hosting
+- **CSS** for custom styling
+- **Git** for version control
+
+The goal was to learn how to create and deploy a static website using modern, reproducible tools.
+
+---
+
+
+## Reflection on GenAI Use
+
+Throughout this lab and course, I have used **Generative AI tools** (such as ChatGPT and GitHub Copilot) to assist with:
+
+- **Writing**: Drafting and polishing content for this website
+- **Coding**: Getting suggestions for Quarto markdown syntax and CSS
+- **Debugging**: Understanding error messages when setting up GitHub Pages
+
+**What I found useful:** GenAI significantly sped up the process of formatting and structuring content. It was especially helpful when I was unsure about YAML indentation syntax in `_quarto.yml`.
+
+**What I found challenging:** The AI sometimes gave outdated instructions (e.g., slightly wrong Quarto CLI commands), so I always verified suggestions against the official Quarto documentation.
+
+**Overall:** GenAI is a powerful assistant, but it works best when I already understand the basics — it helps me move faster, not think less.

@@ -1,1 +1,83 @@
-/* css styles */
+/* ── Body & Typography ── */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #2c2c2c;
+}
+
+/* ── Paragraphs ── */
+p {
+  margin: 0 0 1em 0;
+  padding: 0;
+  line-height: 1.7;
+}
+
+/* ── Headings ── */
+h1, h2 {
+  font-size: 16pt;
+  font-weight: 700;
+  color: #1a1a2e;
+}
+
+h3, h4 {
+  font-size: 14pt;
+  font-weight: 600;
+  color: #333;
+}
+
+/* ── Horizontal rule ── */
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 2em 0;
+}
+
+/* ── Tables ── */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+}
+
+th {
+  background-color: #f0f4ff;
+  padding: 8px 12px;
+  text-align: left;
+  font-weight: 600;
+}
+
+td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+tr:hover {
+  background-color: #f9f9f9;
+}
+
+/* ── Blockquotes ── */
+blockquote {
+  border-left: 4px solid #5b8dee;
+  padding: 0.5em 1em;
+  margin: 1em 0;
+  background: #f0f4ff;
+  border-radius: 0 6px 6px 0;
+  font-style: italic;
+  color: #555;
+}
+
+/* ── Links ── */
+a {
+  color: #5b8dee;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ── Navbar ── */
+.navbar {
+  font-weight: 500;
+}

@@ -1,7 +1,32 @@
 ---
-title: "My Website"
+title: "Welcome to My Website"
 ---
 
-This is a Quarto website.
+## Hello, I'm **Dalton** 👋
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a student at the **Singapore Institute of Technology (SIT)**, studying **Applied Artificial Intelligence**. This website is a space where I share my projects, interests, and learning journey.
+
+::: {style="float:left; position: relative; top: 0px"}
+![](https://via.placeholder.com/150){height="150px" style="margin-right: 20px; border-radius: 8px;"}
+:::
+
+I am passionate about **data engineering**, **visualisation**, and using technology to solve real-world problems. Outside of school, I enjoy photography, hiking, and exploring new cafés around Singapore.
+
+<br style="clear:both;">
+
+---
+
+## What You'll Find Here
+
+- 📖 **About** — A bit more about my background and interests
+- 💼 **Projects** — Academic and personal projects I've worked on
+
+---
+
+## Currently Learning
+
+- Quarto for reproducible reporting
+- GitHub Pages for web hosting
+- Data visualisation with Python and R
+
+> "The best way to learn is by doing."

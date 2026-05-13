@@ -1,16 +1,93 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ls",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "AAI1001 — Data Engineering and Visualisation\nFor this project, I explored a dataset and created an interactive dashboard to visualise key trends. The project involved:\n\nData cleaning and preprocessing using Python (Pandas)\nExploratory data analysis (EDA)\nVisualisation using Matplotlib and Seaborn\n\nKey finding: The data revealed a strong correlation between [variable A] and [variable B], which suggested [brief insight].\n\n\n\n\nAAI1001 — Week 02 Lab\nThis website itself is a project! It was built using:\n\nQuarto for authoring and rendering\nGitHub Pages for hosting\nCSS for custom styling\nGit for version control\n\nThe goal was to learn how to create and deploy a static website using modern, reproducible tools.\n\n\n\n\n[Module Name]\nBrief description of another project you have worked on — this could be from a previous semester, an internship, or a personal side project.\n\nWhat problem did it solve?\nWhat tools or methods did you use?\nWhat was the outcome?"
+  },
+  {
+    "objectID": "projects.html#academic-projects",
+    "href": "projects.html#academic-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "AAI1001 — Data Engineering and Visualisation\nFor this project, I explored a dataset and created an interactive dashboard to visualise key trends. The project involved:\n\nData cleaning and preprocessing using Python (Pandas)\nExploratory data analysis (EDA)\nVisualisation using Matplotlib and Seaborn\n\nKey finding: The data revealed a strong correlation between [variable A] and [variable B], which suggested [brief insight].\n\n\n\n\nAAI1001 — Week 02 Lab\nThis website itself is a project! It was built using:\n\nQuarto for authoring and rendering\nGitHub Pages for hosting\nCSS for custom styling\nGit for version control\n\nThe goal was to learn how to create and deploy a static website using modern, reproducible tools.\n\n\n\n\n[Module Name]\nBrief description of another project you have worked on — this could be from a previous semester, an internship, or a personal side project.\n\nWhat problem did it solve?\nWhat tools or methods did you use?\nWhat was the outcome?"
+  },
+  {
+    "objectID": "projects.html#reflection-on-genai-use",
+    "href": "projects.html#reflection-on-genai-use",
+    "title": "Projects",
+    "section": "Reflection on GenAI Use",
+    "text": "Reflection on GenAI Use\nThroughout this lab and course, I have used Generative AI tools (such as ChatGPT and GitHub Copilot) to assist with:\n\nWriting: Drafting and polishing content for this website\nCoding: Getting suggestions for Quarto markdown syntax and CSS\nDebugging: Understanding error messages when setting up GitHub Pages\n\nWhat I found useful: GenAI significantly sped up the process of formatting and structuring content. It was especially helpful when I was unsure about YAML indentation syntax in _quarto.yml.\nWhat I found challenging: The AI sometimes gave outdated instructions (e.g., slightly wrong Quarto CLI commands), so I always verified suggestions against the official Quarto documentation.\nOverall: GenAI is a powerful assistant, but it works best when I already understand the basics — it helps me move faster, not think less."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "My name is [Dalton] and I am currently in my Year [1] of the Applied Artificial Intelligence programme at the Singapore Institute of Technology (SIT).\nBefore university, I studied at [Ngee Ann Polytechnic], where I developed an interest in computing and mathematics. I chose SIT because of its applied learning approach and strong industry connections."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "My name is [Dalton] and I am currently in my Year [1] of the Applied Artificial Intelligence programme at the Singapore Institute of Technology (SIT).\nBefore university, I studied at [Ngee Ann Polytechnic], where I developed an interest in computing and mathematics. I chose SIT because of its applied learning approach and strong industry connections."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n\n\n\nArea\nTools & Technologies\n\n\n\n\nProgramming\nPython, R\n\n\nData\nPandas, dplyr, SQL\n\n\nReporting\nQuarto, RMarkdown\n\n\nVersion Control\nGit, GitHub\n\n\nWeb\nHTML, CSS"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\n\n🤖 Artificial Intelligence and Machine Learning\n📊 Data Visualisation and Storytelling\n📷 Photography\n🎵 Music"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nSingapore Institute of Technology Bachelor of Science (Applied Artificial Intelligence) Expected Graduation: [2028]"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\nFeel free to connect with me:\n\nGitHub: github.com/duruton\nEmail: 2504003@sit.singaporetech.edu.sg"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "I’m a student at the Singapore Institute of Technology (SIT), studying Applied Artificial Intelligence. This website is a space where I share my projects, interests, and learning journey.\n\n\n\nI am passionate about data engineering, visualisation, and using technology to solve real-world problems. Outside of school, I enjoy photography, hiking, and exploring new cafés around Singapore."
+  },
+  {
+    "objectID": "index.html#hello-im-dalton",
+    "href": "index.html#hello-im-dalton",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "I’m a student at the Singapore Institute of Technology (SIT), studying Applied Artificial Intelligence. This website is a space where I share my projects, interests, and learning journey.\n\n\n\nI am passionate about data engineering, visualisation, and using technology to solve real-world problems. Outside of school, I enjoy photography, hiking, and exploring new cafés around Singapore."
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Welcome to My Website",
+    "section": "What You’ll Find Here",
+    "text": "What You’ll Find Here\n\n📖 About — A bit more about my background and interests\n💼 Projects — Academic and personal projects I’ve worked on"
+  },
+  {
+    "objectID": "index.html#currently-learning",
+    "href": "index.html#currently-learning",
+    "title": "Welcome to My Website",
+    "section": "Currently Learning",
+    "text": "Currently Learning\n\nQuarto for reproducible reporting\nGitHub Pages for web hosting\nData visualisation with Python and R\n\n\n“The best way to learn is by doing.”"
   }
 ]

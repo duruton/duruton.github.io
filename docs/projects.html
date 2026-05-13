@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About Me – My Personal Website</title>
+<title>Projects – My Personal Website</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -97,11 +97,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
   </li>  
 </ul>
@@ -120,11 +120,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
-  <li><a href="#skills" id="toc-skills" class="nav-link" data-scroll-target="#skills">Skills</a></li>
-  <li><a href="#interests" id="toc-interests" class="nav-link" data-scroll-target="#interests">Interests</a></li>
-  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a></li>
-  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
+  <li><a href="#academic-projects" id="toc-academic-projects" class="nav-link active" data-scroll-target="#academic-projects">Academic Projects</a>
+  <ul class="collapse">
+  <li><a href="#data-visualisation-dashboard" id="toc-data-visualisation-dashboard" class="nav-link" data-scroll-target="#data-visualisation-dashboard">📊 Data Visualisation Dashboard</a></li>
+  <li><a href="#personal-website" id="toc-personal-website" class="nav-link" data-scroll-target="#personal-website">🌐 Personal Website</a></li>
+  <li><a href="#another-project-title" id="toc-another-project-title" class="nav-link" data-scroll-target="#another-project-title">🤖 [Another Project Title]</a></li>
+  </ul></li>
+  <li><a href="#reflection-on-genai-use" id="toc-reflection-on-genai-use" class="nav-link" data-scroll-target="#reflection-on-genai-use">Reflection on GenAI Use</a></li>
   </ul>
 </nav>
     </div>
@@ -133,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About Me</h1>
+<h1 class="title">Projects</h1>
 </div>
 
 
@@ -150,68 +152,56 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="background" class="level2">
-<h2 class="anchored" data-anchor-id="background">Background</h2>
-<p>My name is <strong>[Dalton]</strong> and I am currently in my <strong>Year [1]</strong> of the <strong>Applied Artificial Intelligence</strong> programme at the Singapore Institute of Technology (SIT).</p>
-<p>Before university, I studied at <strong>[Ngee Ann Polytechnic]</strong>, where I developed an interest in computing and mathematics. I chose SIT because of its applied learning approach and strong industry connections.</p>
-<hr>
-</section>
-<section id="skills" class="level2">
-<h2 class="anchored" data-anchor-id="skills">Skills</h2>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Area</th>
-<th>Tools &amp; Technologies</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Programming</td>
-<td>Python, R</td>
-</tr>
-<tr class="even">
-<td>Data</td>
-<td>Pandas, dplyr, SQL</td>
-</tr>
-<tr class="odd">
-<td>Reporting</td>
-<td>Quarto, RMarkdown</td>
-</tr>
-<tr class="even">
-<td>Version Control</td>
-<td>Git, GitHub</td>
-</tr>
-<tr class="odd">
-<td>Web</td>
-<td>HTML, CSS</td>
-</tr>
-</tbody>
-</table>
-<hr>
-</section>
-<section id="interests" class="level2">
-<h2 class="anchored" data-anchor-id="interests">Interests</h2>
+<section id="academic-projects" class="level2">
+<h2 class="anchored" data-anchor-id="academic-projects">Academic Projects</h2>
+<section id="data-visualisation-dashboard" class="level3">
+<h3 class="anchored" data-anchor-id="data-visualisation-dashboard">📊 Data Visualisation Dashboard</h3>
+<p><em>AAI1001 — Data Engineering and Visualisation</em></p>
+<p>For this project, I explored a dataset and created an interactive dashboard to visualise key trends. The project involved:</p>
 <ul>
-<li>🤖 Artificial Intelligence and Machine Learning</li>
-<li>📊 Data Visualisation and Storytelling</li>
-<li>📷 Photography</li>
-<li>🎵 Music</li>
+<li>Data cleaning and preprocessing using <strong>Python (Pandas)</strong></li>
+<li>Exploratory data analysis (EDA)</li>
+<li>Visualisation using <strong>Matplotlib</strong> and <strong>Seaborn</strong></li>
+</ul>
+<p><strong>Key finding:</strong> The data revealed a strong correlation between [variable A] and [variable B], which suggested [brief insight].</p>
+<hr>
+</section>
+<section id="personal-website" class="level3">
+<h3 class="anchored" data-anchor-id="personal-website">🌐 Personal Website</h3>
+<p><em>AAI1001 — Week 02 Lab</em></p>
+<p>This website itself is a project! It was built using:</p>
+<ul>
+<li><strong>Quarto</strong> for authoring and rendering</li>
+<li><strong>GitHub Pages</strong> for hosting</li>
+<li><strong>CSS</strong> for custom styling</li>
+<li><strong>Git</strong> for version control</li>
+</ul>
+<p>The goal was to learn how to create and deploy a static website using modern, reproducible tools.</p>
+<hr>
+</section>
+<section id="another-project-title" class="level3">
+<h3 class="anchored" data-anchor-id="another-project-title">🤖 [Another Project Title]</h3>
+<p><em>[Module Name]</em></p>
+<p>Brief description of another project you have worked on — this could be from a previous semester, an internship, or a personal side project.</p>
+<ul>
+<li>What problem did it solve?</li>
+<li>What tools or methods did you use?</li>
+<li>What was the outcome?</li>
 </ul>
 <hr>
 </section>
-<section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
-<p><strong>Singapore Institute of Technology</strong> Bachelor of Science (Applied Artificial Intelligence) <em>Expected Graduation: [2028]</em></p>
-<hr>
 </section>
-<section id="contact" class="level2">
-<h2 class="anchored" data-anchor-id="contact">Contact</h2>
-<p>Feel free to connect with me:</p>
+<section id="reflection-on-genai-use" class="level2">
+<h2 class="anchored" data-anchor-id="reflection-on-genai-use">Reflection on GenAI Use</h2>
+<p>Throughout this lab and course, I have used <strong>Generative AI tools</strong> (such as ChatGPT and GitHub Copilot) to assist with:</p>
 <ul>
-<li><strong>GitHub</strong>: <a href="https://github.com/duruton">github.com/duruton</a></li>
-<li><strong>Email</strong>: 2504003@sit.singaporetech.edu.sg</li>
+<li><strong>Writing</strong>: Drafting and polishing content for this website</li>
+<li><strong>Coding</strong>: Getting suggestions for Quarto markdown syntax and CSS</li>
+<li><strong>Debugging</strong>: Understanding error messages when setting up GitHub Pages</li>
 </ul>
+<p><strong>What I found useful:</strong> GenAI significantly sped up the process of formatting and structuring content. It was especially helpful when I was unsure about YAML indentation syntax in <code>_quarto.yml</code>.</p>
+<p><strong>What I found challenging:</strong> The AI sometimes gave outdated instructions (e.g., slightly wrong Quarto CLI commands), so I always verified suggestions against the official Quarto documentation.</p>
+<p><strong>Overall:</strong> GenAI is a powerful assistant, but it works best when I already understand the basics — it helps me move faster, not think less.</p>
 
 
 </section>

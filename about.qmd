@@ -1,5 +1,47 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+## Background
+
+My name is **\Dalton\** and I am currently in my **Year \1\** of the **Applied Artificial Intelligence** programme at the Singapore Institute of Technology (SIT).
+
+Before university, I studied at **\Ngee Ann Polytechnic\**, where I developed an interest in computing and mathematics. I chose SIT because of its applied learning approach and strong industry connections.
+
+---
+
+## Skills
+
+| Area | Tools & Technologies |
+|------|----------------------|
+| Programming | Python, R |
+| Data | Pandas, dplyr, SQL |
+| Reporting | Quarto, RMarkdown |
+| Version Control | Git, GitHub |
+| Web | HTML, CSS |
+
+---
+
+## Interests
+
+- 🤖 Artificial Intelligence and Machine Learning
+- 📊 Data Visualisation and Storytelling
+- 📷 Photography
+- 🎵 Music
+
+---
+
+## Education
+
+**Singapore Institute of Technology**
+Bachelor of Science (Applied Artificial Intelligence)
+*Expected Graduation: \[2028\]*
+
+---
+
+## Contact
+
+Feel free to connect with me:
+
+- **GitHub**: [github.com/duruton](https://github.com/duruton)
+- **Email**: 2504003@sit.singaporetech.edu.sg
